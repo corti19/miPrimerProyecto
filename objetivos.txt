@@ -1,0 +1,1 @@
+Objetivo de la actividad: aprender a usar Git
