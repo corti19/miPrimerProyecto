@@ -1,1 +1,3 @@
-Objetivo de la actividad: aprender a usar Git
+Objetivo de la actividad: 
+1.Aprender a usar Git.
+2.Manejar GitKraken.
