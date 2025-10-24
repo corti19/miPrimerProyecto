@@ -2,4 +2,4 @@ Objetivo de la actividad:
 1.Aprender a usar Git.
 2.Manejar GitKraken.
 3.Aprender a hacer branches.
-
+4.Tener todo kimpio y ordenado.
